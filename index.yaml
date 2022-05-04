@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  rafay-datadog:
+  - apiVersion: v2
+    appVersion: "2"
+    created: "2022-05-04T07:29:42.316044664Z"
+    description: Send Rafay Audit logs to Datadog
+    digest: cb773bc9f77a3b301082fbf54a99baa9f8d76bc5b933d0e1fc2cc5f2b99bb87c
+    name: rafay-datadog
+    type: application
+    urls:
+    - https://github.com/RafaySystems/rafay-helm-charts/releases/download/rafay-datadog-0.2.0/rafay-datadog-0.2.0.tgz
+    version: 0.2.0
+  rafay-splunk:
+  - apiVersion: v2
+    appVersion: "3"
+    created: "2022-05-04T07:29:42.478986393Z"
+    description: Send Rafay Audit logs to Splunk
+    digest: 5e1bd283b35e398f4a9f875a02b0fc8fbab0a8c4985c32a86d2ce3a96f66fba9
+    name: rafay-splunk
+    type: application
+    urls:
+    - https://github.com/RafaySystems/rafay-helm-charts/releases/download/rafay-splunk-0.3.0/rafay-splunk-0.3.0.tgz
+    version: 0.3.0
+generated: "2022-05-04T07:29:42.478992193Z"
