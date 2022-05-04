@@ -3,6 +3,16 @@ entries:
   rafay-splunk:
   - apiVersion: v2
     appVersion: "3"
+    created: "2022-05-04T07:13:19.383642467Z"
+    description: Send Rafay Audit logs to Splunk
+    digest: 5c09b5df722601c340d30a52965bc7ad1fef9858fcf431765ab67d711156cfec
+    name: rafay-splunk
+    type: application
+    urls:
+    - https://github.com/RafaySystems/rafay-helm-charts/releases/download/rafay-splunk-0.3.1/rafay-splunk-0.3.1.tgz
+    version: 0.3.1
+  - apiVersion: v2
+    appVersion: "3"
     created: "2022-05-04T06:51:57.155081723Z"
     description: A Helm chart for Kubernetes to ingest logs to splunk
     digest: 17118353eac60338c93f192ade4cb69627bb89c897891db16d4694966a5223e8
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/RafaySystems/rafay-helm-charts/releases/download/rafay-splunk-0.3.0/rafay-splunk-0.3.0.tgz
     version: 0.3.0
-generated: "2022-05-04T06:51:57.155095323Z"
+generated: "2022-05-04T07:13:19.383658667Z"
