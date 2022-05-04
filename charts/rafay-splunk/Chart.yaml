@@ -3,4 +3,4 @@ appVersion: "3"
 description: Send Rafay Audit logs to Splunk
 name: rafay-splunk
 type: application
-version: 0.3.1
+version: 0.3.0
