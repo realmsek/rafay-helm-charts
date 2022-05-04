@@ -1,8 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: {{ .Release.Name }}-admissionlogs-ts-configmap
-  labels:
-    {{- include "rafay-splunk.labels" . | nindent 4 }}
-data:
-  admissionLogs_ts: |-
