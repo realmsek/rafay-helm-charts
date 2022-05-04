@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rafay-splunk:
+  - apiVersion: v2
+    appVersion: "3"
+    created: "2022-05-04T06:51:57.155081723Z"
+    description: A Helm chart for Kubernetes to ingest logs to splunk
+    digest: 17118353eac60338c93f192ade4cb69627bb89c897891db16d4694966a5223e8
+    name: rafay-splunk
+    type: application
+    urls:
+    - https://github.com/RafaySystems/rafay-helm-charts/releases/download/rafay-splunk-0.3.0/rafay-splunk-0.3.0.tgz
+    version: 0.3.0
+generated: "2022-05-04T06:51:57.155095323Z"
